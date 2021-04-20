@@ -28,18 +28,20 @@ colmap help
 ```bash
 colmap gui
 ```
-[image:CD8D47AE-5AAF-43E9-99ED-F6B6097F8828-804-00000D033C336623/2021-04-02_17-04.png]
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210420175643.png)
 
 【报错：
 libGL error: No matching fbConfigs or visuals found  
 libGL error: failed to load driver: swrast】
-[image:BDDB563B-160B-409C-AC5F-D27CDDC3EA72-804-000002FB85875F8A/2021-04-02_13-50.png]
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210420175656.png)
 **解决方法**：https://askubuntu.com/questions/834254/steam-libgl-error-no-matching-fbconfigs-or-visuals-found-libgl-error-failed-t
+
 1. 在主机上查看NVIDIA-SMI版本：`nvidia-smi`
-[image:B50B8DBF-54F2-4D79-A0A9-A6036B56EA1E-804-000002FA08E6C8BF/2021-04-02_13-56.png]
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210420175707.png)
 2. 下载对应的包 `apt get install lib nvidia-gl-460`
 > 我还按照论坛里删除了下`libGL.so.1`文件，不知道有没有影响
-> [image:B1F1F086-535D-4038-8AA5-8CF3019B83DA-804-000002FD1E9D9FA7/2021-04-02_13-51.png]
+> ![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210420175721.png)
+>
 > ```bash
 > sudo ldconfig -p | grep -i gl.so
 > # 然后根据输出信息的提示删除这个文件
@@ -50,7 +52,7 @@ libGL error: failed to load driver: swrast】
 【报错：QOpenGLWidget: Failed to create context】
 **解决方案**：
 按照这个issue[Help - QOpenGLWidget: failed to create context · Issue #749 · colmap/colmap · GitHub](https://github.com/colmap/colmap/issues/749)还是没有解决
-[image:A549407A-7397-40FB-B970-0A93465CC200-804-00000D1ABFF9E45B/2021-04-02_13-56.png]
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210420175730.png)
 ```bash
 apt-get install qt5-default
 export QT_SELECTION=path/to/qmake
