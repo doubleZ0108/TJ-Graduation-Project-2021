@@ -134,7 +134,7 @@ Colmap中代价构造、累积、估计和优化是封装在一起的，利用GE
 点击`reconstruction - dense reconstruction`，在稠密重建窗口中点击`select`选择文件存放位置，然后点击`undistortion`即可去除图像畸变
 > ⚠️注意：这里不要选择项目的根目录，拷贝图片的时候会报错路径已存在导致colmap gui闪退的；同时undistortion也只能点一次，第二次同样会因为路径已存在闪退
 
-[image:AFD1E7A3-1533-4A96-A37C-EFE4672D40BD-804-00008ACC9698B4DE/2021-04-09_10-40.png]
+==[image:AFD1E7A3-1533-4A96-A37C-EFE4672D40BD-804-00008ACC9698B4DE/2021-04-09_10-40.png]==
 
 带有畸变的图像会导致边缘有较大的时差估计误差，因此在深度图估计之前，使用光学一致性和几何一致性联合约束构造代价匹配
 > dtu数据集和之前配置成针孔模型已经隐含无畸变
@@ -163,15 +163,15 @@ sudo snap install meshlab
 ```
 
 【报错：meshlab无法打开ply文件】
-[image:D8ED2166-032D-4293-B0F8-99064AFF94BB-804-0000387D0EE5F32B/2021-04-06_14-18.png]
+==[image:D8ED2166-032D-4293-B0F8-99064AFF94BB-804-0000387D0EE5F32B/2021-04-06_14-18.png]==
 
 **问题分析**：用文本浏览器打开ply文件发现header之后全部问乱码
-[image:96D93079-D496-4FD4-AB12-D03A70D70C00-804-00003856E8A37CCA/BFCA8075-4921-4811-99A0-2830B2F44D28.png]
+==[image:96D93079-D496-4FD4-AB12-D03A70D70C00-804-00003856E8A37CCA/BFCA8075-4921-4811-99A0-2830B2F44D28.png]==
 找了很多资料还是没有找到解决方案，最后找师兄要了一个显示ply的python脚本，主要是用的是open3d库就成功了😭，这个故事告诉我们 听老师和师兄的一句建议就可以节省一整个下午debug的时间
 脚本放在github上，暂未开源，如果有需求可以留言哈～
 
 或者采用Colmap GUI官方的可视化方法，点击`File - Import model from...`，选择生成的`fused.ply`即可打开查看融合后的点云效果；不过`meshed-poisson.ply`无法打开，还是要使用Meshlab
-[image:57EA76FC-971A-4C40-BF56-7AB6C552FE67-804-000042399057F6D7/2021-04-06_17-18.png]
+==[image:57EA76FC-971A-4C40-BF56-7AB6C552FE67-804-000042399057F6D7/2021-04-06_17-18.png]==
 
 ### 中间数据分析 —— 匹配矩阵
 点击`Extras - Match Matrix`可以导出当前场景的匹配矩阵
