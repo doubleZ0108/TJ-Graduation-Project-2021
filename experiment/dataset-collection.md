@@ -4,13 +4,14 @@
 1. **DTU数据集**：针对MVS而专门拍摄并处理的室内数据集
 	利用一个搭载可调节亮度灯的工业机器臂对一个物体进行多视角的拍摄，每个物体所拍的视角都经过严格控制，所以可以获取每个视角的相机内、外参数。
 **数据集组成**：124个不同的物体或场景，每个物体共拍摄49个视角，每个视角共有7种不同的亮度。每个物体或场景文件夹内部共有343个图片。每张影像的分辨率为1600×1200。（该数据集还包含带有深度图真值的训练影像集，可用于训练神经网络）
-[image:97F93923-A804-4194-B190-021AF4BB52C0-56719-000106DC13F2B462/406A5F44-9595-4846-A3CB-6A51B2C8C9ED.png]
-[image:DB6822A7-7096-49FD-A496-818B3573F2A5-56719-000106DD1D626EE5/1AE6A0FD-998C-4572-8132-0C0E0C534CD4.png]
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210427225417.png)
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210427225424.png)
+
 [MVS Data Set – 2014 | DTU Robot Image Data Sets](http://roboimagedata.compute.dtu.dk/?page_id=36)
 
 2. **Tanks and Temples数据集**：室外场景数据集
 主要用于验证我们使用的网型和开源软件泛化能力，验证其是否对光照变化大、存在动态目标的场景仍具备较为精确地重建能力
-[image:E1CEA152-C21A-42E7-968F-2C5B96D1273B-56719-000106E177C265BE/7006FAD3-FDEC-4FE4-BE6C-98EAEED2A1C4.png]
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210427225433.png)
 
 
 ## 自采数据集
