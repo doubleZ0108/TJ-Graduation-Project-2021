@@ -6,7 +6,9 @@
 ## 预环境安装
 1. 查看Ubuntu体系架构
 `uname -a`
-[image:FA5B844B-23C1-443E-ACBC-F8D3292B156A-1428-0000252A6F18A80D/23C8A44B-340B-4E98-9893-9EBEC2F1514C.png]
+
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210430214551.png)
+
 > 这里我的系统是x86_64架构
 
 2. 获取CUDA, CUDNN docker环境
@@ -15,7 +17,9 @@
 > 查看GPU型号：`lspci | grep -i nvidia`
 
 在[DockerHub](https://hub.docker.com)中查找相应体系架构和版本的docker预环境，并安装
-[image:2855CA9E-681A-4AE3-A592-41517A3D6D93-1428-000025FAE5E92453/A87EF78E-D5E3-400D-A57A-CD6B74423247.png]
+
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210430214604.png)
+
 ```bash
 sudo docker pull cmhi/cuda9.0-cudnn7
 ```
@@ -93,7 +97,9 @@ sudo apt-get install libtiff5-dev libjpeg8-dev zlib1g-dev \
 > whereis cudnn
 > cat /usr/include/cudnn.h | grep CUDNN_MAJOR -A 2
 > ```
-> [image:40747F61-2E61-4F7D-927C-9D1964D2BC28-1428-0000252A6EEA9AFA/906FA48F-701B-468C-BB54-B8D4D7737D40.png]
+> 
+
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210430214617.png)
 
 
 ## 数据集下载
