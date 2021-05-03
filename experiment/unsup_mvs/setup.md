@@ -1,5 +1,4 @@
 # Ubuntu Docker中无监督深度学习MVS环境配置
-#同济/毕设/实验
 
 > [GitHub - tejaskhot/unsup_mvs: Code for paper: Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency](https://github.com/tejaskhot/unsup_mvs)
 
