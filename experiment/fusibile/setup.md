@@ -1,6 +1,5 @@
-# fusible环境配置
-
-> [GitHub - YoYo000/fusibile: Depthmap fusion with depth and normal consistency check](https://github.com/YoYo000/fusibile)
+# 深度图转为点云模型fusible环境配置
+> [GitHub - YoYo000/fusibile: Depthmap fusion with depth and normal consistency check](https://github.com/YoYo000/fusibile) 
 
 1. clone 仓库: `git clone https://github.com/YoYo000/fusibile`
 2. 编译 
@@ -41,3 +40,9 @@ CMake Error at CMakeLists.txt:4 (find_package):
 apt-get install mesa-common-dev
 apt-get install libgl1-mesa-dev
 ```
+
+【**运行转化点云时报错**：Error: no kernel image is available for execution on the device】
+**原因**：GPU架构不匹配
+**解决方案**：在`CMakeList`中将第10行中的`set(CUDA_NVCC_FLAGS ${CUDA_NVCC_FLAGS};-O3 --use_fast_math --ptxas-options=-v -std=c++11 --compiler-options -Wall -gencode arch=compute_75,code=sm_75)`更改为正确的版本
+> 具体版本仍不太知道该如何查找
+> **参考**：[Error: no kernel image is available for execution on the device · Issue #9 · kysucix/fusibile · GitHub](https://github.com/kysucix/fusibile/issues/9)
