@@ -90,11 +90,11 @@
 
 简单展示几张我在ppt里做的图，相信你会有更好的呈现方式
 
-<img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616122920.png" width="50%;" />
+<p align="center"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616122920.png" width="50%;" /></p>
 
 而你所做的研究成果也要多以图表的形式在论文和答辩中体现，毕竟一图胜千言呀，在这里我只展示很小一部分我的实验结果，你也可以使用这种框线的方式突出你的重点
 
-<img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616123205.png" width="50%;" />
+<p align="center"><img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616123205.png" width="50%;" /></p>
 
 工程的UML图推荐[draw.io](https://draw.io)、[ProcessOn](https://www.processon.com)、[StarUML](https://staruml.io)；原型图推荐[Figma](https://www.figma.com)、[墨刀](https://modao.cc)
 
@@ -140,7 +140,7 @@
 
 谨以此文和仓库作为留给母校最后的礼物🎁
 
-<img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616141912.JPG" width="50%;" />
+<p align="center"><img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616141912.JPG" width="50%;" /></p>
 
 > 【毕设谢辞的最后一段】 
 >
