@@ -1,9 +1,16 @@
 # 在Ubuntu Docker中安装Colmap
 
+* [使用Dockerfile直接安装](#使用dockerfile直接安装)
+* [在本机或在docker中一步一步安装](#在本机或在docker中一步一步安装)
+* [运行Colmap的Docker镜像](#运行colmap的docker镜像)
+* [Resources](#resources)
+
+------
+
 
 ## 使用Dockerfile直接安装
 使用Dockerfile在docker中安装Colmap之前首先要在本机上安装前置环境
-[[nvidia-docker安装]]
+[nvidia-docker安装](https://zhuanlan.zhihu.com/p/361934132)
 
 1. 使用`nvcc —version`确认你的`cuda`版本
 2. 在DockerHub上查看nvidia/cuda可用的版本 [Docker Hub Nvidia cuda](https://hub.docker.com/r/nvidia/cuda/)

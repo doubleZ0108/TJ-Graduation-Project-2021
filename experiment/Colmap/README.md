@@ -1,5 +1,26 @@
 # 传统方法Colmap进行三维重建实践（GUI｜命令行）
 
+* [Colmap安装](#colmap安装)
+* [数据采集](#数据采集)
+* [Colmap GUI操作](#colmap-gui操作)
+   * [稀疏重建](#稀疏重建)
+      * [1. 准备工作](#1-准备工作)
+      * [2. 特征提取](#2-特征提取)
+      * [3. 特征匹配](#3-特征匹配)
+      * [4. 增量式建模](#4-增量式建模)
+   * [深度图估计与优化](#深度图估计与优化)
+      * [1. 图像去畸变](#1-图像去畸变)
+      * [2. 深度估计](#2-深度估计)
+   * [稠密重建](#稠密重建)
+   * [可视化显示](#可视化显示)
+      * [Meshlab](#meshlab)
+      * [Colmap GUI](#colmap-gui)
+   * [中间数据分析 —— 匹配矩阵](#中间数据分析--匹配矩阵)
+* [Colmap命令行操作](#colmap命令行操作)
+* [Resources](#resources)
+
+------
+
 Colmap算法**pipeline**：
 
 ![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210424232124.png)
@@ -10,7 +31,8 @@ Colmap算法**pipeline**：
 
 ---
 ## 数据采集
-[[多视角三维重建(MVS)的数据采集]]
+[多视角三维重建(MVS)的数据采集](https://zhuanlan.zhihu.com/p/363209410)
+
 ---
 
 ## Colmap GUI操作
