@@ -30,8 +30,8 @@ CMake Error at CMakeLists.txt:4 (find_package):
 -- Configuring incomplete, errors occurred!
 ```
 **原因**：OpenCV安装问题
-**解决办法**：重新安装OpenCV [[Ubuntu配置OpenCV终极解决方案]]
-可以通过[linux下查看opencv安装路径以及版本号_zhenguo26的博客-CSDN博客_opencv版本查看](https://blog.csdn.net/zhenguo26/article/details/79627232)查看是否安装成功
+**解决办法**：重新安装OpenCV [Ubuntu配置OpenCV终极解决方案](https://zhuanlan.zhihu.com/p/368573848)
+可以通过[linux下查看opencv安装路径以及版本号](https://blog.csdn.net/zhenguo26/article/details/79627232)查看是否安装成功
 
 【报错：fatal error: GL/gl.h: No such file or directory】
 **原因**：系统中缺少OpenGl库
