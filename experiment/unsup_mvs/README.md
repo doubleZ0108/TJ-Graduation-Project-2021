@@ -1,9 +1,17 @@
 # Ubuntu Docker中进行无监督深度学习MVS
 
+* [环境配置](#环境配置)
+* [Training](#training)
+   * [output文件结构](#output文件结构)
+* [Testing](#testing)
+   * [显示ply文件](#显示ply文件)
+
+------
+
 > [GitHub - tejaskhot/unsup_mvs: Code for paper: Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency](https://github.com/tejaskhot/unsup_mvs)
 
 ## 环境配置
-[[Ubuntu Docker中无监督深度学习MVS环境配置]]
+[Ubuntu Docker中无监督深度学习MVS环境配置](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/experiment/unsup_mvs/setup.md)
 
 ## Training
 【报错：InternalError (see above for traceback): Blas GEMM launch failed :】
@@ -44,7 +52,7 @@
 
 
 ## Testing
-【报错：I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA】
+【报错：I tensorflow/core/platform/cpu_feature_guard.cc:141 Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA】
 **原因**： CPU 支持AVX2 FMA（加速CPU计算），但安装的 TensorFlow 版本不支持
 **解决办法**：
 推荐直接加上这两句
@@ -57,4 +65,4 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 ### 显示ply文件
 【报错：ImportError: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22’ not found】
-[ImportError: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22’ not found_꧁༺ʚ蜕变ɞ༻꧂-CSDN博客](https://blog.csdn.net/qq_36396104/article/details/88774797)
+[ImportError: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22’ not found](https://blog.csdn.net/qq_36396104/article/details/88774797)
