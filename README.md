@@ -142,9 +142,13 @@
 
 <p align="center"><img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616141912.JPG" width="50%;" /></p>
 
+<p align="center"><img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210711230311.png" width="50%;" /></p>
+
 > 【毕设谢辞的最后一段】 
 >
 > “夫吴人与越人相恶也，当其同舟共济，遇风，其相救也，如左右手”。这句写在录取通知书上的话我会终生铭记，感谢四年里同济对我的培养。追求卓越的路上永远没有尽头，同济，不说再见。
+
+
 
 <br/>
 
