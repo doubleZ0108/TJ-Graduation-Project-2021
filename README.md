@@ -27,9 +27,9 @@
 - 📝[毕设任务书](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/任务书.pdf)
 - 📝[毕设开题报告](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/开题报告.pdf)
 - 🎓[毕设论文](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/基于无监督深度学习的土木工程场景三维重建.pdf) ｜ [毕设论文markdown预览版](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/paper/基于无监督深度学习的土木工程场景三维重建.md)
-- 🎓[毕设答辩（pdf版）](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/[答辩]基于无监督深度学习的土木工程场景三维重建.pdf)
-- 📝[外文科技文献翻译](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/[外文科技文献翻译]高分辨率多视点立体视觉与立体匹配的级联代价体.pdf)
-- 🎉[毕业设计答辩PPT模板](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/[模板]毕业设计答辩.pptx)
+- 🎓[毕设答辩（pdf版）](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/%E3%80%90%E7%AD%94%E8%BE%A9%E3%80%91%E5%9F%BA%E4%BA%8E%E6%97%A0%E7%9B%91%E7%9D%A3%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E5%9C%BA%E6%99%AF%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA.pdf)
+- 📝[外文科技文献翻译](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/%E3%80%90%E5%A4%96%E6%96%87%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E7%BF%BB%E8%AF%91%E3%80%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%A4%9A%E8%A7%86%E7%82%B9%E7%AB%8B%E4%BD%93%E8%A7%86%E8%A7%89%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%8C%B9%E9%85%8D%E7%9A%84%E7%BA%A7%E8%81%94%E4%BB%A3%E4%BB%B7%E4%BD%93.pdf)
+- 🎉[毕业设计答辩PPT模板](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91%E5%90%8C%E6%B5%8E%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%AD%94%E8%BE%A9.pptx)
 
 ![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616144252.png)
 
