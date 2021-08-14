@@ -154,7 +154,7 @@
 
 ## 关于作者
 
-![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616121310.png)
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210814213757.png)
 
 > Copyright © doubleZ Tongji Univ.
 >
