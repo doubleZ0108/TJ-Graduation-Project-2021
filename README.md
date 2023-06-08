@@ -140,9 +140,8 @@
 
 谨以此文和仓库作为留给母校最后的礼物🎁
 
-<p align="center"><img align="center" src="https://upload-images.jianshu.io/upload_images/12014150-b724d81dbb825c4c.JPEG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%;" /></p>
+<p align="center"><img align="center" src="https://upload-images.jianshu.io/upload_images/12014150-76c7cc568c9c6365.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%;" /></p>
 
-<!-- <p align="center"><img align="center" src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210711230311.png" width="50%;" /></p> -->
 
 > 【毕设谢辞的最后一段】 
 >
