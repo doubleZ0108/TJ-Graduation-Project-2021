@@ -31,7 +31,7 @@
 - 📝[外文科技文献翻译](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/%E3%80%90%E5%A4%96%E6%96%87%E7%A7%91%E6%8A%80%E6%96%87%E7%8C%AE%E7%BF%BB%E8%AF%91%E3%80%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%A4%9A%E8%A7%86%E7%82%B9%E7%AB%8B%E4%BD%93%E8%A7%86%E8%A7%89%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%8C%B9%E9%85%8D%E7%9A%84%E7%BA%A7%E8%81%94%E4%BB%A3%E4%BB%B7%E4%BD%93.pdf)
 - 🎉[毕业设计答辩PPT模板](https://github.com/doubleZ0108/TJ-Graduation-Project-2021/blob/master/archive/%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91%E5%90%8C%E6%B5%8E%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%AD%94%E8%BE%A9.pptx)
 
-![](https://upload-images.jianshu.io/upload_images/12014150-f273ad4f7738726e.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/12014150-a9bc29baf8d45f18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 【关于毕业设计答辩PPT模板】
 >
@@ -90,11 +90,11 @@
 
 简单展示几张我在ppt里做的图，相信你会有更好的呈现方式
 
-<p align="center"><img src="https://upload-images.jianshu.io/upload_images/12014150-1cd917632e5ff367.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%;" /></p>
+<p align="center"><img src="https://upload-images.jianshu.io/upload_images/12014150-4921d15f9afaccfb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%;" /></p>
 
 而你所做的研究成果也要多以图表的形式在论文和答辩中体现，毕竟一图胜千言呀，在这里我只展示很小一部分我的实验结果，你也可以使用这种框线的方式突出你的重点
 
-<p align="center"><img align="center" src="https://upload-images.jianshu.io/upload_images/12014150-496f4d8589eca7dd.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%;" /></p>
+<p align="center"><img align="center" src="https://upload-images.jianshu.io/upload_images/12014150-b078088853886ec1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%;" /></p>
 
 工程的UML图推荐[draw.io](https://draw.io)、[ProcessOn](https://www.processon.com)、[StarUML](https://staruml.io)；原型图推荐[Figma](https://www.figma.com)、[墨刀](https://modao.cc)
 
@@ -154,7 +154,7 @@
 
 ## 关于作者
 
-![](https://upload-images.jianshu.io/upload_images/12014150-45a8a638528e9059.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/12014150-5550a004a702fe55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > Copyright © doubleZ Tongji Univ.
 >
